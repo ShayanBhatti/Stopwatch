@@ -1,0 +1,32 @@
+*{
+     margin: auto;
+     padding: auto;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 26px;
+
+}
+
+.Container{
+     margin-top: 15%;
+     display: flex;
+     border: 2px solid black;
+     width: 50%;
+     height: auto;
+     justify-content: center;
+     text-align: center;
+ font-size: 72px;    
+     justify-self:center;
+}
+.cons{
+     font-size: 72px;
+
+}
+.button{
+     width: 50%;
+     display: block;
+     border: 1px solid black;
+display: flex;
+font-size: 48px;
+justify-content: space-between;
+height: auto;
+}
